@@ -33,7 +33,7 @@ Create a **console-based quiz application** in Java to practice control flow, da
 ---
 
 ## 📸 Screenshot
-![Quiz App Screenshot](AppOutput.png)
+![Quiz App Screenshot](Output)
 
 
 
